@@ -1,0 +1,37 @@
+{
+  "webhook": {
+    "enabled": false,
+    "url": "",
+    "username": "POLYGON Checker",
+    "on_valid": true,
+    "on_banned": false,
+    "on_high_value": true,
+    "on_error": false,
+    "ping_high_value": false,
+    "ping_rare": false,
+    "ping_all_valid": false,
+    "ping_banned": false
+  },
+  "settings": {
+    "show_credentials": true,
+    "show_status": true,
+    "show_level": true,
+    "show_vp": true,
+    "show_rd": true,
+    "show_kc": true,
+    "show_rank": true,
+    "show_skins": true,
+    "show_buddies": true,
+    "show_cards": true,
+    "show_sprays": true,
+    "show_chromas": true,
+    "show_skin_levels": true,
+    "show_matches": true,
+    "show_email": true,
+    "show_phone": true,
+    "show_penalties": true,
+    "show_country": true,
+    "show_json_in_full_capture": false
+  },
+  "api_key": "fabfa826c5492fb2ca567949d73d9cf9"
+}
